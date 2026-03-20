@@ -21,7 +21,7 @@ struct TodoHero: View {
             ForEach($todos){ $todo in
                 HStack{
                     Image(systemName:todo.isCompleted ? "checkmark.circle.fill":"circle")
-                        .foregroundColor(todo.isCompleted ? .green : .gray)
+                        .foregroundColor(todo.isCompleted ? .green : .red)
                     Text(todo.title)
                         .strikethrough(todo.isCompleted)
                 }
