@@ -46,7 +46,7 @@ struct ContentView: View {
                         
                         Text("...")
                             .font(.title2)
-                            .fontWeight(.bold)
+                            .fontWeight(.semibold)
                     }
                     //this section is dp and posts stuff and all
                     HStack(alignment: .center,spacing:80){
