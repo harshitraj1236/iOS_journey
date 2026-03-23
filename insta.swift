@@ -13,7 +13,7 @@ struct Log: View {
     @State private var isDarkMode: Bool = true
     var body: some View {
         ZStack{
-            (isDarkMode ? Color.black.opacity(0.9) : Color.white)
+            (isDarkMode ? Color.black.opacity(0.9) : Color.gray.opacity(0.5)
                 .ignoresSafeArea()
             VStack{
                 HStack{
