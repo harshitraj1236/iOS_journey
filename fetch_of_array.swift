@@ -1,9 +1,3 @@
-//
-//  fetch_of_array.swift
-//  trainning
-//
-//  Created by Harshit Raj on 28/01/26.
-//
 import SwiftUI
 struct User: Codable, Identifiable{
     let id: Int
