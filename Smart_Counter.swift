@@ -1,9 +1,3 @@
-//
-//  Smart_Counter.swift
-//  trainning
-//
-//  Created by Harshit Raj on 21/12/25.
-//
 import SwiftUI
 
 struct Smart_Counter: View {
