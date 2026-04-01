@@ -1,9 +1,3 @@
-//
-//  menu.swift
-//  trainning
-//
-//  Created by Harshit Raj on 29/12/25.
-//
 import SwiftUI
 struct MenuItem: Identifiable {
     let id = UUID()
