@@ -1,9 +1,3 @@
-//
-//  fetch_data_in_data.swift
-//  trainning
-//
-//  Created by Harshit Raj on 29/01/26.
-//
 import SwiftUI
 struct Address: Codable {
     let city: String
