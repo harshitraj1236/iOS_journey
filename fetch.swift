@@ -1,9 +1,3 @@
-//
-//  fetch.swift
-//  trainning
-//
-//  Created by Harshit Raj on 27/01/26.
-//
 import SwiftUI
 struct QuoteData: Codable{
     let id: Int
