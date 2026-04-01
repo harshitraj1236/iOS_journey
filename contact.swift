@@ -1,10 +1,3 @@
-//
-//  contact.swift
-//  trainning
-//
-//  Created by Harshit Raj on 28/12/25.
-//
-
 import SwiftUI
 
 struct Contact: Identifiable {
