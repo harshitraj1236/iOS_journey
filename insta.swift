@@ -1,11 +1,3 @@
-//
-//  insta.swift
-//  trainning
-//
-//  Created by Harshit Raj on 15/02/26.
-//
-
-
 import SwiftUI
 struct Log: View {
     @State private var UserName: String = ""
