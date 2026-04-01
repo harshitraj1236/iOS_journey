@@ -1,9 +1,3 @@
-//
-//  Tip_Splitter.swift
-//  trainning
-//
-//  Created by Harshit Raj on 22/12/25.
-//
 import SwiftUI
 
 struct TipSplitter: View {
