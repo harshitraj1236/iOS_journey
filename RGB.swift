@@ -1,9 +1,3 @@
-//
-//  RGB.swift
-//  trainning
-//
-//  Created by Harshit Raj on 23/12/25.
-//
 import SwiftUI
 struct RGB: View {
     @State private var redvalue:Double = 0.00
