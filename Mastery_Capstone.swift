@@ -1,9 +1,3 @@
-//
-//  Mastery Capstone.swift
-//  trainning
-//
-//  Created by Harshit Raj on 30/12/25.
-//
 import SwiftUI
 struct Movie: Identifiable {
     let id = UUID()
