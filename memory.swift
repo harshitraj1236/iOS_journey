@@ -1,9 +1,3 @@
-//
-//  memory.swift
-//  trainning
-//
-//  Created by Harshit Raj on 24/01/26.
-//
 import SwiftUI
 struct Memory: View {
     @State private var showSheet: Bool = false
