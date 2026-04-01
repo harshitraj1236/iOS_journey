@@ -1,9 +1,3 @@
-//
-//  sheet.swift
-//  trainning
-//
-//  Created by Harshit Raj on 23/01/26.
-//
 import SwiftUI
 struct Sheet: View {
     @State private var showEditProfile: Bool = false
