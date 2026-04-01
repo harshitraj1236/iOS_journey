@@ -1,9 +1,3 @@
-//
-//  netmirror.swift
-//  trainning
-//
-//  Created by Harshit Raj on 07/01/26.
-//
 import SwiftUI
 
 struct NetMovie: Identifiable {
