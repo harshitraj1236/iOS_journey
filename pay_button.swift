@@ -1,10 +1,3 @@
-//
-//  animation.swift
-//  trainning
-//
-//  Created by Harshit Raj on 08/01/26.
-//
-//
 import SwiftUI
 
 struct PayAnimation:View {
