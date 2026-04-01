@@ -1,9 +1,3 @@
-//
-//  custom_comp.swift
-//  trainning
-//
-//  Created by Harshit Raj on 26/01/26.
-//
 import SwiftUI
 struct LogIn: View {
     let actualPassword: String = "swift123"
