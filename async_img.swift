@@ -1,9 +1,3 @@
-//
-//  async_img.swift
-//  trainning
-//
-//  Created by Harshit Raj on 30/01/26.
-//
 import SwiftUI
 struct Photo:Codable,Identifiable{
     let id: String
