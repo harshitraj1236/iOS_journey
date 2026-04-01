@@ -1,10 +1,3 @@
-//
-//  fetch_error.swift
-//  trainning
-//
-//  Created by Harshit Raj on 04/02/26.
-//
-//
 import SwiftUI
 struct PhotoError:Codable,Identifiable{
     let id: String
