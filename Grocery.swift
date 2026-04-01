@@ -1,9 +1,3 @@
-//
-//  Grocery.swift
-//  trainning
-//
-//  Created by Harshit Raj on 26/12/25.
-//
 import SwiftUI
 
 struct GroceryList: View {
