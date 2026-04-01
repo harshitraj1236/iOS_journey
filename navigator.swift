@@ -1,9 +1,3 @@
-//
-//  navigator.swift
-//  trainning
-//
-//  Created by Harshit Raj on 07/01/26.
-//
 import SwiftUI
 struct HomeView: View {
     @State private var selectView: Int = 0
