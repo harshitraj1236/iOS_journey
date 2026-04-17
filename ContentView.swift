@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Calculator
-//
-//  Created by Prabhnoor Kaur on 12/04/26.
-//
-
 import SwiftUI
 
 struct ContentView: View {
